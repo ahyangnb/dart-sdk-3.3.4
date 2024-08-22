@@ -1,0 +1,6 @@
+library #lib;
+import self as self;
+
+static method main() → dynamic {
+  has-declared-initializer dynamic dyn = null;
+}
